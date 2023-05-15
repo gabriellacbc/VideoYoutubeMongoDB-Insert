@@ -1,0 +1,24 @@
+[{
+  "_id": 1,
+  "tipo": "Lâmpada",
+  "descricao": "Lâmpada LED Inteligente",
+  "marca": "positivo",
+  "tensao": "bivolt",
+  "wifi": true,
+  "altura": 15,
+  "largura": 8,
+  "potencia": 10,
+  "cor_luz": "RGB"
+},{
+  "_id": 2,
+  "tipo": "Ar condicionado",
+  "descricao": "Ar Condicionado Split Hw Dual Inverter Voice LG",
+  "marca": "LG",
+  "tensao": "220",
+  "wifi": true,
+  "altura": 49.5,
+  "largura": 71.7,
+  "profundidade": 23,
+  "capacidade": 9000,
+  "cor": "branco"
+}]
